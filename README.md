@@ -1,4 +1,4 @@
-# LLM-powered chatbot
+# LLM-powered chatbot 🤖
 A conversational AI chatbot built with Streamlit, LangChain, and Language model (LLM). This chatbot maintains conversation context and provides natural language responses through a clean web interface.
 
 ![My Project Logo](img/Screenshot.png)
@@ -33,6 +33,7 @@ GROQ_API_KEY=your_api_key_here
 streamlit run src/chatbot.py --server.port=8501 --server.address=0.0.0.0
 ```
 **2.Open your web browser and navigate to http://localhost:8501**  
+
 **3.Start chatting with the bot!**
 
 
