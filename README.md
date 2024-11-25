@@ -16,7 +16,7 @@ A conversational AI chatbot built with Streamlit, LangChain, and Language model 
 ## Installation
 **1.Clone the repository:**
 ```bash
-git clone <repository-url>
+git clone https://github.com/vishnun0027/LLM-powered-chatbot.git
 cd llm-chatbot
 ```
 **2.Install the required dependencies:**
